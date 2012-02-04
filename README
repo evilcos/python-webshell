@@ -1,6 +1,6 @@
 webllehs.py 是功能相对多的webshell
 llshs.py 是简单的执行系统命令的webshell
 
-如果有的网站支持python web解7的话，那就可以使用这两个shell，权限一般会更大。
+如果有的网站支持python web解析的话，那就可以使用这两个shell，权限一般会更大。
 
 by cosine 2010/07/24
